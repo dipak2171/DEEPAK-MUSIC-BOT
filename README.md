@@ -24,7 +24,7 @@
 
 - [𝐑𝐨𝐜𝐤𝐲](https://telegram.me/ab_krishna_uff)
 
-- [𝐂𝐇𝐎𝐓𝐀_𝐁𝐀𝐁𝐔](https://telegram.me/NO_LOVE_I_HATE_LOVE)
+- [↝🅓 ▴ͤ ▵ͤ ▴ᷮ ▵ᷧ ▴ᷜ⬏⚘](https://telegram.me/Dipak217)
 
 - <p align="center"><a href="https://telegram.me/Ajanabee_Duniya"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
