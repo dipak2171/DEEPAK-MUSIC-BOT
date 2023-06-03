@@ -11,7 +11,7 @@ from PIL import Image, ImageChops, ImageOps, ImageDraw, ImageEnhance, ImageFilte
 from youtubesearchpython.__future__ import VideosSearch
 
 from AnonX import app
-from AnonX.assets import thumbs, colors
+
 from config import YOUTUBE_IMG_URL
 
 
