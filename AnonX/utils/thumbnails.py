@@ -125,7 +125,7 @@ async def gen_thumb(videoid, user_id):
         try:
             draw.text(
                 (450, 25),
-                f"STARTED PLAYING",
+                f"𝙳𝚎𝚎𝚙𝚊𝚔 𝑋 𝚖𝚞𝚜𝚒𝚌",
                 fill="white",
                 stroke_width=3,
                 stroke_fill="grey",
